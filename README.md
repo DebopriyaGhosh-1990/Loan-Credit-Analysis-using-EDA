@@ -56,8 +56,7 @@ The data is about whether a client has payment difficulties.
 3. `columns_description.csv` is data dictionary which describes the meaning of the variables.
 
 
-#### Note:
-Due to size limitation, data files are not uploaded in this repository
+#### Note: Due to size limitation, data files are not uploaded in this repository
 
 
 #### The Jupyter notebook and Loan defaulter credit analysis presentation is uploaded herewith
