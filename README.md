@@ -58,3 +58,6 @@ The data is about whether a client has payment difficulties.
 
 #### Note:
 Due to size limitation, data files are not uploaded in this repository
+
+
+#### The Jupyter notebook and Loan defaulter credit analysis presentation is uploaded herewith
